@@ -1,3 +1,5 @@
+# Exercise 3 + stretch goal
+
 my_string = "ABCdeFhIjklmNOP"
 
 index = (len(my_string)-3) // 2

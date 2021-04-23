@@ -1,3 +1,5 @@
+# Exercise 1 + stretch goal
+
 name = input("What is your name? ")
 age = int(input("What is your age? "))
 

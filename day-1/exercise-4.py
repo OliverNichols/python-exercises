@@ -1,3 +1,5 @@
+# Exercise 4
+
 rps_dict = {'R':'S', 'P':'R', 'S':'P'}
 
 inputs = [
