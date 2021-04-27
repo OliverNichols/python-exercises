@@ -1,3 +1,5 @@
+# Exercise 2 + stretch goal b
+
 num = int(input("Give me a number! "))
 check = int(input("Give me another number! "))
 
