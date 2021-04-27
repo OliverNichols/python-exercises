@@ -7,6 +7,5 @@ def even_digits(a:int, b:int) -> str:
             if digit == '-': continue # works for negative numbers too
             elif int(digit)%2: break
 
-        else:
-            output.append(str(n))
+        else: output.append(str(n))
     return ','.join(output)
